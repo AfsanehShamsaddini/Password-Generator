@@ -9,7 +9,7 @@ Just simple password generator. Use this tool to generate your passwords, you ca
 </p>
 
 <p align="center">
-   <img width="240" height="340"src="icon/passGen1.png">
+   <img width="240" height="340"src="icon/passGenn.png">
 </p>
 
 ### Installation
